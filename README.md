@@ -1,2 +1,2 @@
 # MyHarvest
-An Arabic website designed for buying plants and their accessories 
+An Arabic HTML website designed for buying plants and their accessories 
